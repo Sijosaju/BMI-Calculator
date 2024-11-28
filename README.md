@@ -1,4 +1,5 @@
 PROJECT ACTIVITIES 
+
 The project involved the following key activities: 
 • UI/UX Design: Creating wireframes and mockups for the app's screens, ensuring intuitive 
 navigation and visually appealing design. 
