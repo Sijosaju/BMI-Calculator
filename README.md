@@ -14,7 +14,7 @@ user data storage.
 How to run this code:
 
 import these files to the lib folder of your project folder.
-Ensure that shared preference package and google fonts are imported from the pub.dev website for proper working.
+Ensure that shared preference package and google fonts package are imported from the pub.dev website for proper working.
 
 Thank You!!
 
